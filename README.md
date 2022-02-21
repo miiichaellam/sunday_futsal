@@ -1,1 +1,2 @@
-# sunday_futsal
+# Sunday Futsal
+- Dashboard keeping track of stats
